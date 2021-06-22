@@ -4,6 +4,8 @@ Simple snackbars in Godot Engine
 ![screenshot](screenshot1.png)
 
 ## Usage
+Clone this repo, or just copy the `snackbar.gd` file to your project.
+
 Add the `snackbar.gd` file to your autoloads and call the `show_snackbar()` function.
 
 ## Examples
